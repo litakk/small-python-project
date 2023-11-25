@@ -1,5 +1,5 @@
 # small-python-project
-First update
+New Project for packages
 <!--
  # 3.0.11 - Patch version 
 # -
